@@ -1,4 +1,4 @@
-# SK - Skill Factory
+# SK - SkillFactory
 
 # module_0
 ## Game guess the number
